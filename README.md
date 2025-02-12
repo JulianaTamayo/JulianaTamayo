@@ -1,26 +1,7 @@
 
-
-![GIF](https://i.gifer.com/Ao.gif)
-
-
-
-
 ## Hi there 👋
 
-<!--
-**JulianaTamayo/JulianaTamayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an application support analyst with over 3 years of experience in the IT industry, specializing in agile methodologies, manual testing, and customer service. I have led process improvement projects that resulted in a 20% reduction in response time. In my current role, I replicate errors with test users for various applications, ensuring effective problem resolution. I am currently on an exciting learning journey in web development, aiming to become a competent and creative web developer capable of designing and developing attractive and functional websites that meet the needs of clients and end users
 
 ### 📊 GitHub Stats:
 ![Juliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julianatamayo&show_icons=true&theme=radical)
