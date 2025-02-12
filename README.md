@@ -36,9 +36,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" width="50" height="50" alt="Vite"/>
-  <img src="https://wac-cdn.atlassian.com/dam/jcr:d66cdd30-4c83-49ac-89fa-5bfea2214947/Jira%20Software%20blue.svg?cdnVersion=1363" width="50" height="50" alt="Jira"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
+  <img src="https://seeklogo.com/images/J/jira-software-logo-C71F8C0324-seeklogo.com.png" width="50" height="50" alt="Jira"/>
 </p>
 
