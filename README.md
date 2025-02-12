@@ -3,14 +3,6 @@
 
 I am an application support analyst with over 3 years of experience in the IT industry, specializing in agile methodologies, manual testing, and customer service. I have led process improvement projects that resulted in a 20% reduction in response time. In my current role, I replicate errors with test users for various applications, ensuring effective problem resolution. I am currently on an exciting learning journey in web development, aiming to become a competent and creative web developer capable of designing and developing attractive and functional websites that meet the needs of clients and end users
 
-### 📊 GitHub Stats:
-![Juliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julianatamayo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianatamayo&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Julianatamayo&theme=radical)
-
-
 ## 🚀 Skills  
 
 <p align="center">
@@ -29,4 +21,17 @@ I am an application support analyst with over 3 years of experience in the IT in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
   <img src="https://seeklogo.com/images/A/atlassian-logo-173F62CFE2-seeklogo.com.png" width="50" height="50" alt="Atlassian"/>
 </p>
+
+
+
+
+
+
+### 📊 GitHub Stats:
+![Juliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julianatamayo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianatamayo&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Julianatamayo&theme=radical)
+
 
